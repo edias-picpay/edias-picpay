@@ -20,10 +20,7 @@ I'm Eduardo Dias, brazilian that loves back-end developement, web, mobile and au
         <br />
         <br />
         <a href="https://github.com/anuraghazra/github-readme-stats">
-            <img src="https://github-readme-stats.vercel.app/api?username=edurodriguesdias&show_icons=true&line_height=45&theme=vue&include_all_commits=true" />
-        </a>
-        <a href="https://stackoverflow.com/users/8968206/eduardo-rodrigues">
-            <img src="https://github-readme-stackoverflow.vercel.app/?userID=8968206&theme=light" />
+            <img src="https://github-readme-stats.vercel.app/api?username=edias-picpay&show_icons=true&line_height=45&theme=vue&include_all_commits=true" />
         </a>
     </div>
 </center>
