@@ -14,14 +14,3 @@ I'm Eduardo Dias, brazilian that loves back-end developement, web, mobile and au
 - Cloud using **Oracle and AWS**
 - Backend development using **Laravel, Lumen, Zend, Magento, WP and Node.js**
 
-<center>
-    <div align="center">
-        <br />
-        <br />
-        <br />
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-            <img src="https://github-readme-stats.vercel.app/api?username=edias-picpay&show_icons=true&line_height=45&theme=vue&include_all_commits=true" />
-        </a>
-    </div>
-</center>
-
